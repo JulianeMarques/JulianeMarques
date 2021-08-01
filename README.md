@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Front-End and Education.
 - 🌱 I’m currently learning React and Redux.
-- 💬 Ask me about ...
 - 📫 How to reach me: mqs.juliane@gmail.com
 - 😄 Pronouns: she/her
 
