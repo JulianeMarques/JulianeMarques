@@ -1,7 +1,7 @@
 ### Hello you 👋 My name is Jules!
 
 - 🔭 I’m currently working on Front-End, React and Redux.
-- 🌱 I’m currently learning React and Redux! Soon Back-End!
+- 🌱 I’m currently learning NODEJS, MySQL and Docker.
 - 📫 How to reach me: mqs.juliane@gmail.com
 - 😄 Pronouns: she/her
 
