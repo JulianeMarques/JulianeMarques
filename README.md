@@ -1,7 +1,7 @@
 ### Hello you 👋 My name is Jules!
 
-- 🔭 Front-End Developer: JavaScript, React, Redux, Context API...
-- 🌱 I’m currently learning NODEJS, MySQL and Docker.
+- 🔭 Full-Stack Developer: JavaScript, React, Redux, Context API...
+- 🌱 I’m currently learning NODEJS, MySQL and Docker, TypeScript
 - 📫 How to reach me: mqs.juliane@gmail.com
 - 😄 Pronouns: she/her
 
