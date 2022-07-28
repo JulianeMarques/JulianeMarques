@@ -3,6 +3,7 @@
 - 🔭 Full-Stack Developer
 - 📫 How to reach me: mqs.juliane@gmail.com
 - 😄 Pronouns: she/her
+- Working at: VIVO - Telefonica
 
 
 <div>
